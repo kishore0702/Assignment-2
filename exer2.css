@@ -1,0 +1,59 @@
+#form{
+    padding-left: 130px;
+    margin-top: 30px;
+}
+
+
+
+.required:after {
+    content:" *";
+    color: red;
+  }
+
+  .input1{
+    
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  #i123{
+    margin-right: 20px;
+  }
+
+  #s123{
+    margin-right: 180px;
+  }
+  #E123{
+    width: 400px;
+  }
+  .checked{
+    color: rgba(211, 108, 5, 0.882);
+    
+  }
+
+  .div{
+    margin-top: 20px;
+  }
+  table{
+    width: 950px;
+    height: 150px;
+  }
+
+
+  
+
+  .td123{
+    text-align: left;
+  }
+
+    tr{
+        text-align: center;
+    }
+
+    #ta123{
+        width: 950px;
+        height: 150px;
+        margin-top: 15px;
+    }
+
+   
